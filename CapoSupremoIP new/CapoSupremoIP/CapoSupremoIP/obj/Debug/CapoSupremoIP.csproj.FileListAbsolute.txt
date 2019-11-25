@@ -1,0 +1,26 @@
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\bin\Debug\CapoSupremoIP.exe.config
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\bin\Debug\CapoSupremoIP.exe
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\bin\Debug\CapoSupremoIP.pdb
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.csprojAssemblyReference.cache
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.CashDeskForm.resources
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.Properties.Resources.resources
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.csproj.GenerateResource.cache
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.exe
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.pdb
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.Form1.resources
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.kitchenForm.resources
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.ExistingOrders.resources
+C:\Users\krish\source\repos\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.newOrderForm.resources
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.csprojAssemblyReference.cache
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.exe
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.pdb
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\bin\Debug\CapoSupremoIP.exe.config
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\bin\Debug\CapoSupremoIP.exe
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\bin\Debug\CapoSupremoIP.pdb
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.CashDeskForm.resources
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.ExistingOrders.resources
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.Form1.resources
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.newOrderForm.resources
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.kitchenForm.resources
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.Properties.Resources.resources
+C:\Users\krish\Downloads\CapoSupremoIP new\CapoSupremoIP\CapoSupremoIP\obj\Debug\CapoSupremoIP.csproj.GenerateResource.cache
